@@ -1,12 +1,5 @@
 
 ## Análise de Clusters
-## Fonte: Fávero e Belfiore, MANUAL DE ANÁLISE DE DADOS, Capítulo 09
-
-# Curso: MBA DSA USP ESALQ
-
-# Prof. Wilson Tarantin Jr.
-
-# Instalação e carregamento dos pacotes utilizados
 
 pacotes <- c("plotly", #plataforma gráfica
              "tidyverse", #carregar outros pacotes do R
